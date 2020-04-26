@@ -1,0 +1,34 @@
+sysbios_nandwriter.zip: Platform.xdc
+Platform.xdc:
+sysbios_nandwriter.zip: Platform.xs
+Platform.xs:
+sysbios_nandwriter.zip: config.bld
+config.bld:
+sysbios_nandwriter.zip: package/.vers_b160
+package/.vers_b160:
+sysbios_nandwriter.zip: package/.vers_g180
+package/.vers_g180:
+sysbios_nandwriter.zip: package/.vers_r170
+package/.vers_r170:
+sysbios_nandwriter.zip: package/.xdc-A65
+package/.xdc-A65:
+sysbios_nandwriter.zip: package/build.cfg
+package/build.cfg:
+sysbios_nandwriter.zip: package/package.bld.xml
+package/package.bld.xml:
+sysbios_nandwriter.zip: package/package.defs.h
+package/package.defs.h:
+sysbios_nandwriter.zip: package/package_sysbios_nandwriter.c
+package/package_sysbios_nandwriter.c:
+sysbios_nandwriter.zip: package/sysbios_nandwriter.ccs
+package/sysbios_nandwriter.ccs:
+sysbios_nandwriter.zip: package/sysbios_nandwriter.class
+package/sysbios_nandwriter.class:
+sysbios_nandwriter.zip: package/sysbios_nandwriter.java
+package/sysbios_nandwriter.java:
+sysbios_nandwriter.zip: package/sysbios_nandwriter.sch
+package/sysbios_nandwriter.sch:
+sysbios_nandwriter.zip: package.bld
+package.bld:
+sysbios_nandwriter.zip: package.xdc
+package.xdc:

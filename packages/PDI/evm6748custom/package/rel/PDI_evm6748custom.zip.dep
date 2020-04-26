@@ -1,0 +1,34 @@
+PDI_evm6748custom.zip: Platform.xdc
+Platform.xdc:
+PDI_evm6748custom.zip: Platform.xs
+Platform.xs:
+PDI_evm6748custom.zip: config.bld
+config.bld:
+PDI_evm6748custom.zip: package/.vers_b160
+package/.vers_b160:
+PDI_evm6748custom.zip: package/.vers_g180
+package/.vers_g180:
+PDI_evm6748custom.zip: package/.vers_r170
+package/.vers_r170:
+PDI_evm6748custom.zip: package/.xdc-A65
+package/.xdc-A65:
+PDI_evm6748custom.zip: package/PDI.evm6748custom.ccs
+package/PDI.evm6748custom.ccs:
+PDI_evm6748custom.zip: package/PDI.evm6748custom.sch
+package/PDI.evm6748custom.sch:
+PDI_evm6748custom.zip: package/PDI_evm6748custom.class
+package/PDI_evm6748custom.class:
+PDI_evm6748custom.zip: package/PDI_evm6748custom.java
+package/PDI_evm6748custom.java:
+PDI_evm6748custom.zip: package/build.cfg
+package/build.cfg:
+PDI_evm6748custom.zip: package/package.bld.xml
+package/package.bld.xml:
+PDI_evm6748custom.zip: package/package.defs.h
+package/package.defs.h:
+PDI_evm6748custom.zip: package/package_PDI.evm6748custom.c
+package/package_PDI.evm6748custom.c:
+PDI_evm6748custom.zip: package.bld
+package.bld:
+PDI_evm6748custom.zip: package.xdc
+package.xdc:
